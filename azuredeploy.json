@@ -7,7 +7,7 @@
             "minlength": 3,
             "maxlength": 24
         },
-    "storageSKU": {
+        "storageSKU": {
             "type": "string",
             "defaultValue": "Standard_LRS",
             "allowedValues": [
@@ -20,7 +20,7 @@
                 "Standard_GZRS",
                 "Standard_RAGZRS"
             ]    
-    }
+        }
     },
     "resources":[
         {
